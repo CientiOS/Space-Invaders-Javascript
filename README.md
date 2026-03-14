@@ -2,7 +2,7 @@
 Un pequeño intento de Space Invaders con HTML5 y JavaScript. 
 ## Controles
 
-A → mover izquierda  
-D → mover derecha  
+A → mover a la izquierda  
+D → mover a la derecha  
 Espacio → disparar  
-Enter → iniciar o reiniciar
+Enter → iniciar/reiniciar
